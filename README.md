@@ -26,6 +26,8 @@ There is a lot of scope for future work in Image Captioning. It is always diffic
 
 
 --
+
 Nilay Shrivastava
+
 Kushagra Bhatnagar
 
