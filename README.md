@@ -1,5 +1,5 @@
 # Image-Captioning
-Final year Project based Internship project inspired by Andrej Karpathy's CS231n
+PBI project inspired by Andrej Karpathy's CS231n
 
 ## Datasets used
   Flickr8k
@@ -9,6 +9,7 @@ Final year Project based Internship project inspired by Andrej Karpathy's CS231n
 Libraries needed - 
 Tensorflow, keras, python 3.xx, nnumpy
 
+First, clone or download the repository in your machine
 You will need to download InceptionV3 weights and our model weights beforehand and store them in their respective folders, details of which are given in Description file of the respective directories.
 
 
@@ -23,4 +24,8 @@ We have used Bidirectional GRU which no one has used for Image Captioning as far
 
 There is a lot of scope for future work in Image Captioning. It is always difficult to generalize the model. If we have a lot of animal pictures in our dataset, our model might be biased to dogs and will perform poorly if there are humans in the image. Thus a huge amount of datasets are involved for the better model. Huge datasets implies faster computation and larger memory. This makes it difficult to carry out the research in the field. One can come up with efficient models but it requires a lot of time and resources to test the models.
 
+
+--
+Nilay Shrivastava
+Kushagra Bhatnagar
 
