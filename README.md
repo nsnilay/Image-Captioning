@@ -6,7 +6,7 @@ PBI project inspired by Andrej Karpathy's CS231n
   Flickr30k
   MSCOCO
   
-Libraries needed - 
+Tools and libraries needed - 
 Tensorflow, keras, python 3.xx, numpy
 
 First, clone or download the repository in your machine
