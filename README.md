@@ -6,6 +6,8 @@ PBI project inspired by Andrej Karpathy's CS231n
   Flickr30k
   MSCOCO
   
+  Since Flickr30k and MSCOCO require large computing power, I might upload the resullts and notebook later. The technique is same as for Flickr8k. Even though I have some decent result for Flickr30k and MSCOCO, I don't feel like uploading it at the moment.
+  
 Tools and libraries needed - 
 Tensorflow, keras, python 3.xx, numpy, Jupyter notebook
 
