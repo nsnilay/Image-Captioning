@@ -7,9 +7,10 @@ PBI project inspired by Andrej Karpathy's CS231n
   MSCOCO
   
 Libraries needed - 
-Tensorflow, keras, python 3.xx, nnumpy
+Tensorflow, keras, python 3.xx, numpy
 
 First, clone or download the repository in your machine
+
 You will need to download InceptionV3 weights and our model weights beforehand and store them in their respective folders, details of which are given in Description file of the respective directories.
 
 
