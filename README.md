@@ -13,7 +13,7 @@ Tensorflow, keras, python 3.xx, numpy, Jupyter notebook
 
 First, clone or download the repository in your machine
 
-You will need to download InceptionV3 weights and our model weights beforehand and store them in their respective folders, details of which are given in Description file of the respective directories. Though you can download them from [here] (https://drive.google.com/open?id=1DLujMGIR-IKlFALKMTEE8VCi9jlmFTYV)
+You will need to download InceptionV3 weights and our model weights beforehand and store them in their respective folders, details of which are given in Description file of the respective directories. Though you can download them from [here](https://drive.google.com/open?id=1DLujMGIR-IKlFALKMTEE8VCi9jlmFTYV)
 
 
 ## Summary and Conclusions
